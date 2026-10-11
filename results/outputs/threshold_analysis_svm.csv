@@ -1,0 +1,5 @@
+rule,threshold,test hypo recall,test hypo precision,test share flagged,model
+default (highest score wins),,0.5227272727272727,0.21552878179384202,0.2809326814591952,"SVM RBF (tuned, chosen)"
+threshold for out-of-fold recall 0.5,2.083606012548691,0.512987012987013,0.2173314993122421,0.27341105678826627,"SVM RBF (tuned, chosen)"
+threshold for out-of-fold recall 0.6,1.0816455135538543,0.6136363636363636,0.20543478260869566,0.34599473486273036,"SVM RBF (tuned, chosen)"
+threshold for out-of-fold recall 0.7,0.928234685039288,0.7045454545454546,0.17801476620180476,0.45844302369311773,"SVM RBF (tuned, chosen)"

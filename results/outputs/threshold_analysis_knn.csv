@@ -1,0 +1,5 @@
+rule,threshold,test hypo recall,test hypo precision,test share flagged,model
+default (highest score wins),,0.5551948051948052,0.22411533420707733,0.28694998119593834,"KNN (tuned, chosen)"
+threshold for out-of-fold recall 0.5,0.44031860904557035,0.4707792207792208,0.25,0.2181271154569387,"KNN (tuned, chosen)"
+threshold for out-of-fold recall 0.6,0.3778381033728849,0.5844155844155844,0.2192448233861145,0.3087626927416322,"KNN (tuned, chosen)"
+threshold for out-of-fold recall 0.7,0.32239996256830616,0.7012987012987013,0.20074349442379183,0.40466340729597594,"KNN (tuned, chosen)"

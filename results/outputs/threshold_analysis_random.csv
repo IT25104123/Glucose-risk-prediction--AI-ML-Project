@@ -1,0 +1,5 @@
+rule,threshold,test hypo recall,test hypo precision,test share flagged,model
+default (highest score wins),,0.4155844155844156,0.23443223443223443,0.20534035351635954,"Random Forest (tuned, chosen)"
+threshold for out-of-fold recall 0.5,0.3531063040688314,0.4902597402597403,0.2396825396825397,0.236931177134261,"Random Forest (tuned, chosen)"
+threshold for out-of-fold recall 0.6,0.30847845868921075,0.6038961038961039,0.21016949152542372,0.3328318916886047,"Random Forest (tuned, chosen)"
+threshold for out-of-fold recall 0.7,0.27030668805250957,0.7207792207792207,0.19874664279319607,0.42008273787138023,"Random Forest (tuned, chosen)"

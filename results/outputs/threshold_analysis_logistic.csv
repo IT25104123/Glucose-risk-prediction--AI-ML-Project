@@ -1,0 +1,5 @@
+rule,threshold,test hypo recall,test hypo precision,test share flagged,model
+default (highest score wins),,0.5194805194805194,0.18244013683010263,0.32982324182023315,"Logistic Regression (tuned, chosen)"
+threshold for out-of-fold recall 0.5,0.3334933069754477,0.5357142857142857,0.17684887459807075,0.35088379089883415,"Logistic Regression (tuned, chosen)"
+threshold for out-of-fold recall 0.6,0.33342939030421936,0.5974025974025974,0.16757741347905283,0.41293719443399773,"Logistic Regression (tuned, chosen)"
+threshold for out-of-fold recall 0.7,0.3333341773388327,0.6883116883116883,0.16084977238239756,0.4956750658142159,"Logistic Regression (tuned, chosen)"

@@ -1,0 +1,5 @@
+rule,threshold,test hypo recall,test hypo precision,test share flagged,model
+default (highest score wins),,0.45454545454545453,0.21671826625386997,0.24294847687100413,"Gradient Boosting (tuned, chosen)"
+threshold for out-of-fold recall 0.5,0.3868903321831045,0.4675324675324675,0.22784810126582278,0.2376833396013539,"Gradient Boosting (tuned, chosen)"
+threshold for out-of-fold recall 0.6,0.3335306931124262,0.5909090909090909,0.2169249106078665,0.3155321549454682,"Gradient Boosting (tuned, chosen)"
+threshold for out-of-fold recall 0.7,0.2762568918740039,0.7175324675324676,0.19051724137931034,0.4362542309138774,"Gradient Boosting (tuned, chosen)"
