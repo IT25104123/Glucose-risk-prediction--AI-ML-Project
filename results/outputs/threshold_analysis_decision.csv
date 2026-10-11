@@ -1,5 +1,0 @@
-rule,threshold,test hypo recall,test hypo precision,test share flagged,model
-default (highest score wins),,0.564935064935065,0.17993795243019647,0.3636705528394133,"Decision Tree (tuned, chosen)"
-threshold for out-of-fold recall 0.5,0.37092185771834957,0.551948051948052,0.17543859649122806,0.3644227153065062,"Decision Tree (tuned, chosen)"
-threshold for out-of-fold recall 0.6,0.33484366771398627,0.5844155844155844,0.17374517374517376,0.3896201579541181,"Decision Tree (tuned, chosen)"
-threshold for out-of-fold recall 0.7,0.2674568029807731,0.7175324675324676,0.16541916167664672,0.502444528018052,"Decision Tree (tuned, chosen)"
